@@ -3,7 +3,7 @@
 
 def frequencies(items):
     if items == []:
-        return
+        return {}
     
     frequencies = {}
     # Your code goes here
